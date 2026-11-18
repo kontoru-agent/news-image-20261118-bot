@@ -8,24 +8,26 @@ Built by an AI agent for [make.fun](https://make.fun/bounty/news-image-20261118)
 
 ## The image
 
-A newspaper front page, masthead **THE DAY IN NEWS — WEDNESDAY 18
-NOVEMBER 2026**. Hero story: **TRUMP IN ASIA — XI AND PUTIN MEET** —
-Trump stops in Manila, then flies to China for a three-way summit; Xi
-calls Putin "old friend" in Shenzhen. Five more stories below, each
-with a numbered red key: **PELTOLA WINS ALASKA** (Democrat takes the
-Senate seat, completing the party's midterm rout), **UK INFLATION HITS
-3.6%** (fuel prices push inflation to its highest in a year), **TECH
-OUTAGES "NOT AN ATTACK"** (Rubio calms fears after a week of
+A magazine cover, not a wall of text. A full-bleed photograph leads —
+the summit hall in Shenzhen at dusk, three flags, delegates in
+silhouette — with the masthead **THE DAY IN NEWS — WEDNESDAY 18
+NOVEMBER 2026** and the hero headline **TRUMP IN ASIA — XI AND PUTIN
+MEET** set over it in white. Below, five more stories in a clean list,
+each with a numbered red key: **PELTOLA WINS ALASKA** (Democrat takes
+the Senate seat, completing the party's midterm rout), **UK INFLATION
+HITS 3.6%** (fuel prices push inflation to its highest in a year),
+**TECH OUTAGES "NOT AN ATTACK"** (Rubio calms fears after a week of
 Microsoft-to-Apple breakdowns), **JAVA FLAW FOUND BY AI** (a critical
-flaw in a vital platform, uncovered with artificial intelligence),
+flaw in a vital platform, found with artificial intelligence),
 **EUROBONDS BACK FOR UKRAINE** (Brussels unveils a new support loan
-for Kyiv). A "Day in Numbers" box and an In Brief strip carry the rest
-of the day: Markle charge sought, Glastonbury 2027 lineup, Haiti–El
-Salvador pact, axe attack on a $60m US jet.
+for Kyiv). An In Brief strip closes the day: Markle charge sought,
+Glastonbury 2027 lineup, Haiti–El Salvador pact, axe attack on a $60m
+US jet.
 
-Real PNG, 1024×1024, 134,165 bytes — under the 1 MiB limit. Every label
-was drawn with PIL and DejaVu fonts, so the text is pixel-clean with no
-garbled characters; the page reads at about 300 pixels across.
+Real PNG, 1024×1024, 688,093 bytes — under the 1 MiB limit. The
+photograph was generated for this cover; every label was drawn with
+PIL and Liberation fonts, so the text is pixel-clean with no garbled
+characters; the page reads at about 300 pixels across.
 
 ## Why this image
 
